@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feff120f-3884-47ae-948b-7cd6c3ddf168" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UtXVGG10D9hQazOBYfquVBntSA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\drag0\Desktop\web\localization" />
+      <recent name="C:\Users\drag0\Desktop\web" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feff120f-3884-47ae-948b-7cd6c3ddf168" name="Default Changelist" comment="" />
+      <created>1576176886388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576176886388</updated>
+      <workItem from="1576176889079" duration="665000" />
+      <workItem from="1576177563510" duration="8915000" />
+      <workItem from="1576409324789" duration="5453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576177552271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1576177552271" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1576409409662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1576409409662" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1576409409662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1576409409662" />
+    <state x="609" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576411862156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="609" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1576411862156" />
+    <state x="591" y="73" width="737" height="894" key="find.popup" timestamp="1576414727112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="73" width="737" height="894" key="find.popup/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1576414727112" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576414191445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1576414191445" />
+  </component>
+</project>

@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif|PT+Sans&display=swap');
+
+.body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+}
+
+.wrapper {
+    display: table;
+    background: url(../img/background.png), linear-gradient(to bottom, #ffffff, #e4d0aa);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.content {
+    display: table-cell;
+    height: 100%;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.content-header {
+    text-align: center;
+    margin-bottom: 54px;
+}
+
+.content-header__title {
+    font: 32pt 'Noto Serif', serif;
+    text-transform: uppercase;
+    color: #70563d;
+    letter-spacing: -0.2pt;
+}
+
+.content-main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin: 15px;
+    width: 370px;
+}
+
+.gray-scale {
+    -webkit-filter: grayscale(1);
+    -moz-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: grayscale(1); /* Firefox 4+ */
+    filter: gray; /* IE 6-9 */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+
+.section-info {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin: 0 15px;
+    width: 361px;
+    background: white;
+}
+
+.image {
+    width: 370px;
+    height: 230px;
+    position: relative;
+}
+
+.section-frame {
+    width: 360px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height: auto;
+    word-wrap: break-word;
+    border-right: 5px solid #e7e0d3;
+    border-left: 5px solid #e7e0d3;
+    background: white;
+}
+
+.section-frame__bottom {
+    border-bottom: 5px solid #e7e0d3;
+}
+
+.section-info__name {
+    font: 20pt 'Noto Serif', serif;
+    font-stretch: condensed;
+    color: #70563d;
+    text-align: center;
+    width: 300px;
+    line-height: 26pt;
+    height: auto;
+    padding: 24px 0;
+    margin: 0;
+    letter-spacing: 0.6pt;
+}
+
+.section-info__description {
+    font: 11pt 'PT Sans', sans-serif;
+    text-align: center;
+    color: rgb(30, 30, 30);
+    width: 310px;
+    border-bottom: 1px solid #dbdbdb;
+    line-height: 18pt;
+    letter-spacing: 0.53pt;
+    margin: 13px 0;
+    padding-bottom: 23px;
+}
+
+.section-info__price {
+    text-align: center;
+    margin: 8px 0;
+}
+
+.section-info__price-text {
+    font: 18px 'Noto Serif', serif;
+    text-align: center;
+}
+
+.section-info__price-number {
+    font: 26px 'Noto Serif', serif;
+    color: #70563d;
+}
+
+.section-info__order {
+    margin: 0 auto;
+    text-align: center;
+    padding: 12px;
+}
+
+.section-info__order__btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 230px;
+    height: 50px;
+    background: #765b24;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.section-info__order__btn__text {
+    font: 16px 'PT Sans', sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    letter-spacing: 1pt;
+}
+
+.duplex_star-img {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    z-index: 1;
+    display: none;
+}
+
+.duplex_star-text {
+    position: absolute;
+    left: 17px;
+    top: 29px;
+    z-index: 2;
+    color: white;
+    font: 9pt/10pt 'PT Sans', sans-serif;
+    width: 46px;
+    text-align: center;
+    display: none;
+}
